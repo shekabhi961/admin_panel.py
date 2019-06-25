@@ -21,5 +21,3 @@ if "([\w\-\.]+[\-\.][\w\-\.]+)" == url :
     print(re.match("([\w\-\.]+[\-\.][\w\-\.]+)"),url)
 else:
     print("fail")
-
-print('lets dance now..')
