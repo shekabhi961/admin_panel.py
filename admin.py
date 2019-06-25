@@ -22,4 +22,4 @@ if "([\w\-\.]+[\-\.][\w\-\.]+)" == url :
 else:
     print("fail")
 
-print('lets dance now')
+print('lets dance now..')
